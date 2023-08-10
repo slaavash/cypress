@@ -1,2 +1,2 @@
->#1 work in Cypress \n
+>#1 work in Cypress
 Basic open, type, search, verify code
