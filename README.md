@@ -1,2 +1,2 @@
->#1 work in Cypress
->Basic open, type, search, verify code
+>#1 work in Cypress \n
+Basic open, type, search, verify code
